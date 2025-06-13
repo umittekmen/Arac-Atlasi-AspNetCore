@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+<div class="text-center">
+    <h1 class="display-4 mb-4">Araç Atlası'na Hoş Geldiniz</h1>
+    <p class="lead mb-5">Türkiye'nin en kapsamlı araç bilgi platformu</p>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <h2 class="text-center mb-4">Markalar</h2>
+        <div id="brandsContainer" class="row row-cols-2 row-cols-md-4 row-cols-lg-6 g-4">
+            <!-- Brands will be loaded here dynamically -->
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h3 class="card-title text-center mb-4">Neden Araç Atlası?</h3>
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul class="list-unstyled">
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Güncel ve doğru bilgiler</li>
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Detaylı teknik özellikler</li>
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Yüksek kaliteli fotoğraflar</li>
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul class="list-unstyled">
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Kullanıcı dostu arayüz</li>
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Hızlı ve kolay erişim</li>
+                            <li class="mb-3"><i class="bi bi-check-circle-fill text-success me-2"></i>Sürekli güncellenen içerik</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('/data/data.json')
+                .then(response => response.json())
+                .then(data => {
+                    const brandsContainer = document.getElementById('brandsContainer');
+                    const brands = data.brands.brand;
+
+                    brands.forEach(brand => {
+                        const brandCard = document.createElement('div');
+                        brandCard.className = 'col';
+                        brandCard.innerHTML = `
+                            <div class="card h-100">
+                                <div class="card-body text-center">
+                                    <img src="${brand.image._text}" alt="${brand.name._text}" class="img-fluid mb-3" style="max-height: 100px; object-fit: contain;">
+                                    <h5 class="card-title">${brand.name._text}</h5>
+                                    <a href="/Vehicles/Brand/${encodeURIComponent(brand.name._text)}" class="btn btn-outline-primary btn-sm">Modelleri Gör</a>
+                                </div>
+                            </div>
+                        `;
+                        brandsContainer.appendChild(brandCard);
+                    });
+                })
+                .catch(error => console.error('Error loading brands:', error));
+        });
+    </script>
+}

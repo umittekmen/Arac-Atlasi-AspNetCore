@@ -1,0 +1,28 @@
+@model List<AspNetCoreApp.Web.Models.Brand>
+@{
+    ViewData["Title"] = "Araç Markaları";
+}
+
+<div class="container">
+    <h1 class="text-center mb-5">Araç Markaları</h1>
+    
+    <div class="row">
+        @foreach (var brand in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    @if (!string.IsNullOrEmpty(brand.Image.Text))
+                    {
+                        <img src="@brand.Image.Text" class="card-img-top" alt="@brand.Name.Text" style="height: 200px; object-fit: contain;">
+                    }
+                    <div class="card-body text-center">
+                        <h3 class="card-title">@brand.Name.Text</h3>
+                        <a href="@Url.Action("Brand", "Vehicles", new { brandName = brand.Name.Text })" class="btn btn-primary mt-3">
+                            Modelleri Gör
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div> 

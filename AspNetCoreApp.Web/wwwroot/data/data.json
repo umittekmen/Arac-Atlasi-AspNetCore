@@ -1,0 +1,2135 @@
+{
+  "brands": {
+    "_attributes": {
+      "xmlns": "http://www.auto-data.net/"
+    },
+    "brand": [
+      {
+        "image": {
+          "_text": "https://logowik.com/content/uploads/images/487_infiniti_logo.jpg"
+        },
+        "update": {
+          "_text": "2022-04-14 16:44:04"
+        },
+        "name": {
+          "_text": "Infiniti"
+        },
+        "id": {
+          "_text": "152"
+        },
+        "models": {
+          "model": [
+            {
+              "update": {
+                "_text": "2024-01-29 12:13:51"
+              },
+              "name": {
+                "_text": "JX"
+              },
+              "id": {
+                "_text": "3388"
+              },
+              "generations": {
+                "generation": {
+                  "prototype": {
+                    "_text": "0"
+                  },
+                  "update": {
+                    "_text": "2024-01-29 12:15:05"
+                  },
+                  "name": {
+                    "_text": "JX"
+                  },
+                  "modelYear": {
+                    "_text": "2013"
+                  },
+                  "id": {
+                    "_text": "9858"
+                  },
+                  "images": {
+                    "image": [
+                      {
+                        "id": {
+                          "_text": "138207"
+                        },
+                        "update": {
+                          "_text": "2024-01-29 12:45:26"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f36/Infiniti-JX_thumb.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f36/Infiniti-JX.jpg"
+                        },
+                        "attribution": {
+                          "_text": "CEFICEFI, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+                        }
+                      },
+                      {
+                        "id": {
+                          "_text": "138208"
+                        },
+                        "update": {
+                          "_text": "2024-01-29 12:45:26"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f123/Infiniti-JX_thumb_2.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f123/Infiniti-JX_4.jpg"
+                        },
+                        "attribution": {
+                          "_text": "CEFICEFI, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+                        }
+                      }
+                    ]
+                  },
+                  "modifications": {
+                    "modification": [
+                      {
+                        "id": {
+                          "_text": "51065"
+                        },
+                        "update": {
+                          "_text": "2024-01-29 16:10:59"
+                        },
+                        "brand": {
+                          "_text": "Infiniti"
+                        },
+                        "model": {
+                          "_text": "JX"
+                        },
+                        "generation": {
+                          "_text": "JX"
+                        },
+                        "doors": {
+                          "_text": "5"
+                        },
+                       
+                        
+                        "power": {
+                          "_text": "265/6400"
+                        },
+                        "powerHp": {
+                          "_text": "265"
+                        },
+                        "powerRpm": {
+                          "_text": "6400"
+                        },
+                        "powerRpmLow": {
+                          "_text": "6400"
+                        },
+                        "tankVolume": {
+                          "_text": "74"
+                        },
+                        "coupe": {
+                          "_text": "Crossover"
+                        },
+                        "places": {
+                          "_text": "7"
+                        },
+                        
+                        "length": {
+                          "_text": "4989"
+                        },
+                        "width": {
+                          "_text": "1960"
+                        },
+                        "height": {
+                          "_text": "1722"
+                        },
+                        "heightMin": {
+                          "_text": "1722"
+                        },
+                        "rideHeight": {
+                          "_text": "165"
+                        },
+                        "rideHeightMin": {
+                          "_text": "165"
+                        },
+                        "approachAngle": {
+                          "_text": "14"
+                        },
+                        "approachAngleMin": {
+                          "_text": "14"
+                        },
+                        "departureAngle": {
+                          "_text": "20.6"
+                        },
+                        "departureAngleMin": {
+                          "_text": "20.6"
+                        },
+                        "luggageMin": {
+                          "_text": "447"
+                        },
+                        "luggageMinMin": {
+                          "_text": "447"
+                        },
+                        "engineCode": {
+                          "_text": "VQ35DE"
+                        },
+                        "engineposition": {
+                          "_text": "Ön, enine"
+                        },
+                        "engineDisplacement": {
+                          "_text": "3498"
+                        },
+                        "maxEngineSpeed": {
+                          "_text": "6600"
+                        },
+                        "torque": {
+                          "_text": "336/4400"
+                        },
+                        "torqueNm": {
+                          "_text": "336"
+                        },
+                        "torqueRpm": {
+                          "_text": "4400"
+                        },
+                        "torqueRpmLow": {
+                          "_text": "4400"
+                        },
+                        "fuelSystem": {
+                          "_text": "Çok noktalı enjeksiyon"
+                        },
+                        "turbine": {
+                          "_text": "Atmosferik motor"
+                        },
+                        "valvetrain": {
+                          "_text": "DOHC,CVTCS"
+                        },
+                        "fuel": {
+                          "_text": "Benzin"
+                        },
+                        "drive": {
+                          "_text": "Tüm tekerlekten çekiş (4x4)"
+                        },
+                        "gearboxATType": {
+                          "_text": "CVT"
+                        },
+                        "frontSuspension": {
+                          "_text": "Helezon yaylı ve viraj denge çubuğuna sahip bağımsız, McPherson tipi"
+                        },
+                        "rearSuspension": {
+                          "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                        },
+                        "frontBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "frontBrakesSize": {
+                          "_text": "320"
+                        },
+                        "frontBrakesThickness": {
+                          "_text": "28"
+                        },
+                        "rearBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "rearBrakesSize": {
+                          "_text": "308"
+                        },
+                        "rearBrakesThickness": {
+                          "_text": "16"
+                        },
+                        "abs": {
+                          "_text": "1"
+                        },
+                        "standardFCu": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionUrban": {
+                          "_text": "13.1"
+                        },
+                        "fuelConsumptionUrbanMin": {
+                          "_text": "13.1"
+                        },
+                        "standardFCe": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionExtraurban": {
+                          "_text": "10.2"
+                        },
+                        "fuelConsumptionExtraurbanMin": {
+                          "_text": "10.2"
+                        },
+                        "standardFCc": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionCombined": {
+                          "_text": "11.8"
+                        },
+                        "fuelConsumptionCombinedMin": {
+                          "_text": "11.8"
+                        },
+                        "curbWeight": {
+                          "_text": "2005"
+                        },
+                        "curbWeightMin": {
+                          "_text": "2005"
+                        },
+                        "maxWeight": {
+                          "_text": "2693"
+                        },
+                        
+                        "tireSize": {
+                          "all": {
+                            "_text": "235/65 R18; 235/55 R20"
+                          },
+                          "tire": [
+                            {
+                              "size": {
+                                "_text": "235/65 R18"
+                              },
+                              "W": {
+                                "_text": "235"
+                              },
+                              "H": {
+                                "_text": "65"
+                              },
+                              "D": {
+                                "_text": "18"
+                              }
+                            },
+                            {
+                              "size": {
+                                "_text": "235/55 R20"
+                              },
+                              "W": {
+                                "_text": "235"
+                              },
+                              "H": {
+                                "_text": "55"
+                              },
+                              "D": {
+                                "_text": "20"
+                              }
+                            }
+                          ]
+                        },
+                        "rimsSize": {
+                          "all": {
+                            "_text": "7.5J x 18; 7.5J x 20"
+                          },
+                          "rim": [
+                            {
+                              "_text": "7.5J x 18"
+                            },
+                            {
+                              "_text": "7.5J x 20"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "id": {
+                          "_text": "51064"
+                        },
+                        "update": {
+                          "_text": "2024-01-29 16:10:59"
+                        },
+                        "brand": {
+                          "_text": "Infiniti"
+                        },
+                        "model": {
+                          "_text": "JX"
+                        },
+                        "generation": {
+                          "_text": "JX"
+                        },
+                        "doors": {
+                          "_text": "5"
+                        },
+                       
+                        "power": {
+                          "_text": "265/6400"
+                        },
+                        "powerHp": {
+                          "_text": "265"
+                        },
+                        "powerRpm": {
+                          "_text": "6400"
+                        },
+                        "powerRpmLow": {
+                          "_text": "6400"
+                        },
+                        "tankVolume": {
+                          "_text": "74"
+                        },
+                        "coupe": {
+                          "_text": "Crossover"
+                        },
+                        "places": {
+                          "_text": "7"
+                        },
+                        
+                        "length": {
+                          "_text": "4989"
+                        },
+                        "width": {
+                          "_text": "1960"
+                        },
+                        "height": {
+                          "_text": "1722"
+                        },
+                        "heightMin": {
+                          "_text": "1722"
+                        },
+                        "rideHeight": {
+                          "_text": "165"
+                        },
+                        "rideHeightMin": {
+                          "_text": "165"
+                        },
+                        "approachAngle": {
+                          "_text": "14"
+                        },
+                        "approachAngleMin": {
+                          "_text": "14"
+                        },
+                        "departureAngle": {
+                          "_text": "20.6"
+                        },
+                        "departureAngleMin": {
+                          "_text": "20.6"
+                        },
+                        "luggageMin": {
+                          "_text": "447"
+                        },
+                        "luggageMinMin": {
+                          "_text": "447"
+                        },
+                        "engineCode": {
+                          "_text": "VQ35DE"
+                        },
+                        "engineposition": {
+                          "_text": "Ön, enine"
+                        },
+                        "engineDisplacement": {
+                          "_text": "3498"
+                        },
+                        "maxEngineSpeed": {
+                          "_text": "6600"
+                        },
+                        "torque": {
+                          "_text": "336/4400"
+                        },
+                        "torqueNm": {
+                          "_text": "336"
+                        },
+                        "torqueRpm": {
+                          "_text": "4400"
+                        },
+                        "torqueRpmLow": {
+                          "_text": "4400"
+                        },
+                        "fuelSystem": {
+                          "_text": "Çok noktalı enjeksiyon"
+                        },
+                        "turbine": {
+                          "_text": "Atmosferik motor"
+                        },
+                        "valvetrain": {
+                          "_text": "DOHC,CVTCS"
+                        },
+                        "fuel": {
+                          "_text": "Benzin"
+                        },
+                        "drive": {
+                          "_text": "Önden çekiş"
+                        },
+                        "gearboxATType": {
+                          "_text": "CVT"
+                        },
+                        "frontSuspension": {
+                          "_text": "Helezon yaylı ve viraj denge çubuğuna sahip bağımsız, McPherson tipi"
+                        },
+                        "rearSuspension": {
+                          "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                        },
+                        "frontBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "frontBrakesSize": {
+                          "_text": "320"
+                        },
+                        "frontBrakesThickness": {
+                          "_text": "28"
+                        },
+                        "rearBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "rearBrakesSize": {
+                          "_text": "308"
+                        },
+                        "rearBrakesThickness": {
+                          "_text": "16"
+                        },
+                        "abs": {
+                          "_text": "1"
+                        },
+                        "standardFCu": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionUrban": {
+                          "_text": "13.1"
+                        },
+                        "fuelConsumptionUrbanMin": {
+                          "_text": "13.1"
+                        },
+                        "standardFCe": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionExtraurban": {
+                          "_text": "9.8"
+                        },
+                        "fuelConsumptionExtraurbanMin": {
+                          "_text": "9.8"
+                        },
+                        "standardFCc": {
+                          "_text": "EPA"
+                        },
+                        "fuelConsumptionCombined": {
+                          "_text": "11.2"
+                        },
+                        "fuelConsumptionCombinedMin": {
+                          "_text": "11.2"
+                        },
+                        "curbWeight": {
+                          "_text": "1941"
+                        },
+                        "curbWeightMin": {
+                          "_text": "1941"
+                        },
+                        "maxWeight": {
+                          "_text": "2602"
+                        },
+                       
+                        "tireSize": {
+                          "all": {
+                            "_text": "235/65 R18; 235/55 R20"
+                          },
+                          "tire": [
+                            {
+                              "size": {
+                                "_text": "235/65 R18"
+                              },
+                              "W": {
+                                "_text": "235"
+                              },
+                              "H": {
+                                "_text": "65"
+                              },
+                              "D": {
+                                "_text": "18"
+                              }
+                            },
+                            {
+                              "size": {
+                                "_text": "235/55 R20"
+                              },
+                              "W": {
+                                "_text": "235"
+                              },
+                              "H": {
+                                "_text": "55"
+                              },
+                              "D": {
+                                "_text": "20"
+                              }
+                            }
+                          ]
+                        },
+                        "rimsSize": {
+                          "all": {
+                            "_text": "7.5J x 18; 7.5J x 20"
+                          },
+                          "rim": [
+                            {
+                              "_text": "7.5J x 18"
+                            },
+                            {
+                              "_text": "7.5J x 20"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "update": {
+                "_text": "2023-05-11 12:07:39"
+              },
+              "name": {
+                "_text": "G"
+              },
+              "id": {
+                "_text": "1528"
+              },
+              "generations": {
+                "generation": [
+                  {
+                    "prototype": {
+                      "_text": "0"
+                    },
+                    "update": {
+                      "_text": "2023-08-28 10:49:23"
+                    },
+                    "name": {
+                      "_text": "G37 Sedan (V36, facelift 2009)"
+                    },
+                    "modelYear": {
+                      "_text": "2010"
+                    },
+                    "id": {
+                      "_text": "9613"
+                    },
+                    "images": {
+                      "image": [
+                        {
+                          "id": {
+                            "_text": "132656"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 11:06:35"
+                          },
+                          "small": {
+                            "_text": "https://api.auto-data.net/images/f73/Infiniti-G37-Sedan-V36-facelift-2009_thumb.jpg"
+                          },
+                          "big": {
+                            "_text": "https://api.auto-data.net/images/f73/Infiniti-G37-Sedan-V36-facelift-2009.jpg"
+                          },
+                          "attribution": {
+                            "_text": "IFCAR, Public domain, via Wikimedia Commons"
+                          }
+                        },
+                        {
+                          "id": {
+                            "_text": "132648"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 11:06:29"
+                          },
+                          "small": {
+                            "_text": "https://api.auto-data.net/images/f91/Infiniti-G37-Sedan-V36-facelift-2009_thumb.jpg"
+                          },
+                          "big": {
+                            "_text": "https://api.auto-data.net/images/f91/Infiniti-G37-Sedan-V36-facelift-2009.jpg"
+                          },
+                          "attribution": {
+                            "_text": "M 93, Attribution, via Wikimedia Commons"
+                          }
+                        }
+                      ]
+                    },
+                    "modifications": {
+                      "modification": [
+                        {
+                          "id": {
+                            "_text": "49207"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 11:59:51"
+                          },
+                          "brand": {
+                            "_text": "Infiniti"
+                          },
+                       
+                          "generation": {
+                            "_text": "G37 Sedan (V36, facelift 2009)"
+                          },
+                          "doors": {
+                            "_text": "4"
+                          },
+                          
+                          "power": {
+                            "_text": "328/7000"
+                          },
+                          "powerHp": {
+                            "_text": "328"
+                          },
+                          "powerRpm": {
+                            "_text": "7000"
+                          },
+                          "powerRpmLow": {
+                            "_text": "7000"
+                          },
+                          "tankVolume": {
+                            "_text": "76"
+                          },
+                          "coupe": {
+                            "_text": "Sedan"
+                          },
+                          "places": {
+                            "_text": "5"
+                          },
+                         
+                          "length": {
+                            "_text": "4779"
+                          },
+                          "width": {
+                            "_text": "1773"
+                          },
+                          "height": {
+                            "_text": "1453"
+                          },
+                          "heightMin": {
+                            "_text": "1453"
+                          },
+                          "rideHeight": {
+                            "_text": "132"
+                          },
+                          "rideHeightMin": {
+                            "_text": "132"
+                          },
+                          "luggageMin": {
+                            "_text": "382"
+                          },
+                          "luggageMinMin": {
+                            "_text": "382"
+                          },
+                          "engineCode": {
+                            "_text": "VQ37VHR"
+                          },
+                          "engineposition": {
+                            "_text": "Ön, boyuna"
+                          },
+                          "engineDisplacement": {
+                            "_text": "3696"
+                          },
+                          "maxEngineSpeed": {
+                            "_text": "7500"
+                          },
+                          "torque": {
+                            "_text": "365/5200"
+                          },
+                          "torqueNm": {
+                            "_text": "365"
+                          },
+                          "torqueRpm": {
+                            "_text": "5200"
+                          },
+                          "torqueRpmLow": {
+                            "_text": "5200"
+                          },
+                          "fuelSystem": {
+                            "_text": "Çok noktalı enjeksiyon"
+                          },
+                          "turbine": {
+                            "_text": "Atmosferik motor"
+                          },
+                          "valvetrain": {
+                            "_text": "DOHC,CVTCS,VVEL"
+                          },
+                          "fuel": {
+                            "_text": "Benzin"
+                          },
+                          "drive": {
+                            "_text": "Arkadan İtiş"
+                          },
+                          "gearboxMT": {
+                            "_text": "6"
+                          },
+                          "frontSuspension": {
+                            "_text": "Helezon yay, Çift salıncaklı, Enine sabitleyici"
+                          },
+                          "rearSuspension": {
+                            "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                          },
+                          "frontBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "frontBrakesSize": {
+                            "_text": "355"
+                          },
+                          "frontBrakesThickness": {
+                            "_text": "32"
+                          },
+                          "rearBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "rearBrakesSize": {
+                            "_text": "350"
+                          },
+                          "rearBrakesThickness": {
+                            "_text": "20"
+                          },
+                          "abs": {
+                            "_text": "1"
+                          },
+                          "turningCircle": {
+                            "_text": "10.8"
+                          },
+                          "standardFCu": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionUrban": {
+                            "_text": "13.8"
+                          },
+                          "fuelConsumptionUrbanMin": {
+                            "_text": "13.8"
+                          },
+                          "standardFCe": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionExtraurban": {
+                            "_text": "9.4"
+                          },
+                          "fuelConsumptionExtraurbanMin": {
+                            "_text": "9.4"
+                          },
+                          "emissionStandard": {
+                            "_text": "LEV2"
+                          },
+                          "curbWeight": {
+                            "_text": "1651-1682"
+                          },
+                          "curbWeightMin": {
+                            "_text": "1651"
+                          },
+                          "curbWeightMax": {
+                            "_text": "1682"
+                          },
+                          "maxWeight": {
+                            "_text": "2142"
+                          },
+                       
+                          "tireSize": {
+                            "all": {
+                              "_text": "245/45 R18;225/50 R18"
+                            },
+                            "tire": [
+                              {
+                                "size": {
+                                  "_text": "245/45 R18"
+                                },
+                                "W": {
+                                  "_text": "245"
+                                },
+                                "H": {
+                                  "_text": "45"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              },
+                              {
+                                "size": {
+                                  "_text": "225/50 R18"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "50"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              }
+                            ]
+                          },
+                          "rimsSize": {
+                            "all": {
+                              "_text": "8.5J x 18;7.5J x 18"
+                            },
+                            "rim": [
+                              {
+                                "_text": "8.5J x 18"
+                              },
+                              {
+                                "_text": "7.5J x 18"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "id": {
+                            "_text": "49206"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 11:59:51"
+                          },
+                          "brand": {
+                            "_text": "Infiniti"
+                          },
+                          
+                          "generation": {
+                            "_text": "G37 Sedan (V36, facelift 2009)"
+                          },
+                          "doors": {
+                            "_text": "4"
+                          },
+                         
+                          "power": {
+                            "_text": "328/7000"
+                          },
+                          "powerHp": {
+                            "_text": "328"
+                          },
+                          "powerRpm": {
+                            "_text": "7000"
+                          },
+                          "powerRpmLow": {
+                            "_text": "7000"
+                          },
+                          "tankVolume": {
+                            "_text": "76"
+                          },
+                          "coupe": {
+                            "_text": "Sedan"
+                          },
+                          "places": {
+                            "_text": "5"
+                          },
+                       
+                          "length": {
+                            "_text": "4779"
+                          },
+                          "width": {
+                            "_text": "1773"
+                          },
+                          "height": {
+                            "_text": "1468"
+                          },
+                          "heightMin": {
+                            "_text": "1468"
+                          },
+                          "rideHeight": {
+                            "_text": "124-130"
+                          },
+                          "rideHeightMin": {
+                            "_text": "124"
+                          },
+                          "rideHeightMax": {
+                            "_text": "130"
+                          },
+                          "luggageMin": {
+                            "_text": "382"
+                          },
+                          "luggageMinMin": {
+                            "_text": "382"
+                          },
+                          "engineCode": {
+                            "_text": "VQ37VHR"
+                          },
+                          "engineposition": {
+                            "_text": "Ön, boyuna"
+                          },
+                          "engineDisplacement": {
+                            "_text": "3696"
+                          },
+                          "maxEngineSpeed": {
+                            "_text": "7500"
+                          },
+                          "torque": {
+                            "_text": "365/5200"
+                          },
+                          "torqueNm": {
+                            "_text": "365"
+                          },
+                          "torqueRpm": {
+                            "_text": "5200"
+                          },
+                          "torqueRpmLow": {
+                            "_text": "5200"
+                          },
+                          "fuelSystem": {
+                            "_text": "Çok noktalı enjeksiyon"
+                          },
+                          "turbine": {
+                            "_text": "Atmosferik motor"
+                          },
+                          "valvetrain": {
+                            "_text": "DOHC,CVTCS,VVEL"
+                          },
+                          "fuel": {
+                            "_text": "Benzin"
+                          },
+                          "drive": {
+                            "_text": "Tüm tekerlekten çekiş (4x4)"
+                          },
+                          "gearboxAT": {
+                            "_text": "7"
+                          },
+                          "frontSuspension": {
+                            "_text": "Helezon yay, Çift salıncaklı, Enine sabitleyici"
+                          },
+                          "rearSuspension": {
+                            "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                          },
+                          "frontBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "frontBrakesSize": {
+                            "_text": "320"
+                          },
+                          "frontBrakesThickness": {
+                            "_text": "28"
+                          },
+                          "rearBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "rearBrakesSize": {
+                            "_text": "308"
+                          },
+                          "rearBrakesThickness": {
+                            "_text": "16"
+                          },
+                          "abs": {
+                            "_text": "1"
+                          },
+                          "turningCircle": {
+                            "_text": "11"
+                          },
+                          "standardFCu": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionUrban": {
+                            "_text": "13.1"
+                          },
+                          "fuelConsumptionUrbanMin": {
+                            "_text": "13.1"
+                          },
+                          "standardFCe": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionExtraurban": {
+                            "_text": "9.4"
+                          },
+                          "fuelConsumptionExtraurbanMin": {
+                            "_text": "9.4"
+                          },
+                          "emissionStandard": {
+                            "_text": "LEV2"
+                          },
+                          "curbWeight": {
+                            "_text": "1727-1734"
+                          },
+                          "curbWeightMin": {
+                            "_text": "1727"
+                          },
+                          "curbWeightMax": {
+                            "_text": "1734"
+                          },
+                          "maxWeight": {
+                            "_text": "2198"
+                          },
+                        
+                          "tireSize": {
+                            "all": {
+                              "_text": "225/55 R17; 225/50 R18"
+                            },
+                            "tire": [
+                              {
+                                "size": {
+                                  "_text": "225/55 R17"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "55"
+                                },
+                                "D": {
+                                  "_text": "17"
+                                }
+                              },
+                              {
+                                "size": {
+                                  "_text": "225/50 R18"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "50"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              }
+                            ]
+                          },
+                          "rimsSize": {
+                            "all": {
+                              "_text": "7.5J x 17; 7.5J x 18"
+                            },
+                            "rim": [
+                              {
+                                "_text": "7.5J x 17"
+                              },
+                              {
+                                "_text": "7.5J x 18"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "prototype": {
+                      "_text": "0"
+                    },
+                    "update": {
+                      "_text": "2023-08-28 08:30:15"
+                    },
+                    "name": {
+                      "_text": "G37 Sedan (V36)"
+                    },
+                    "modelYear": {
+                      "_text": "2009"
+                    },
+                    "id": {
+                      "_text": "9612"
+                    },
+                    "images": {
+                      "image": [
+                        {
+                          "id": {
+                            "_text": "132604"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 08:55:48"
+                          },
+                          "small": {
+                            "_text": "https://api.auto-data.net/images/f36/Infiniti-G37-Sedan-V36_thumb.jpg"
+                          },
+                          "big": {
+                            "_text": "https://api.auto-data.net/images/f36/Infiniti-G37-Sedan-V36.jpg"
+                          },
+                          "attribution": {
+                            "_text": "nakhon100, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+                          }
+                        },
+                        {
+                          "id": {
+                            "_text": "132605"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 08:54:38"
+                          },
+                          "small": {
+                            "_text": "https://api.auto-data.net/images/f52/Infiniti-G37-Sedan-V36_thumb.jpg"
+                          },
+                          "big": {
+                            "_text": "https://api.auto-data.net/images/f52/Infiniti-G37-Sedan-V36.jpg"
+                          },
+                          "attribution": {
+                            "_text": "nakhon100, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+                          }
+                        }
+                      ]
+                    },
+                    "modifications": {
+                      "modification": [
+                        {
+                          "id": {
+                            "_text": "49204"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 12:01:09"
+                          },
+                          "brand": {
+                            "_text": "Infiniti"
+                          },
+                         
+                          "generation": {
+                            "_text": "G37 Sedan (V36)"
+                          },
+                          "doors": {
+                            "_text": "4"
+                          },
+                         
+                          "power": {
+                            "_text": "328/7000"
+                          },
+                          "powerHp": {
+                            "_text": "328"
+                          },
+                          "powerRpm": {
+                            "_text": "7000"
+                          },
+                          "powerRpmLow": {
+                            "_text": "7000"
+                          },
+                          "tankVolume": {
+                            "_text": "76"
+                          },
+                          "coupe": {
+                            "_text": "Sedan"
+                          },
+                          "places": {
+                            "_text": "5"
+                          },
+                        
+                          "length": {
+                            "_text": "4755"
+                          },
+                          "width": {
+                            "_text": "1773"
+                          },
+                          "height": {
+                            "_text": "1452"
+                          },
+                          "heightMin": {
+                            "_text": "1452"
+                          },
+                          "rideHeight": {
+                            "_text": "130"
+                          },
+                          "rideHeightMin": {
+                            "_text": "130"
+                          },
+                          "luggageMin": {
+                            "_text": "382"
+                          },
+                          "luggageMinMin": {
+                            "_text": "382"
+                          },
+                          "engineCode": {
+                            "_text": "VQ37VHR"
+                          },
+                          "engineposition": {
+                            "_text": "Ön, boyuna"
+                          },
+                          "engineDisplacement": {
+                            "_text": "3696"
+                          },
+                          "maxEngineSpeed": {
+                            "_text": "7600"
+                          },
+                          "torque": {
+                            "_text": "365/5200"
+                          },
+                          "torqueNm": {
+                            "_text": "365"
+                          },
+                          "torqueRpm": {
+                            "_text": "5200"
+                          },
+                          "torqueRpmLow": {
+                            "_text": "5200"
+                          },
+                          "fuelSystem": {
+                            "_text": "Çok noktalı enjeksiyon"
+                          },
+                          "turbine": {
+                            "_text": "Atmosferik motor"
+                          },
+                          "valvetrain": {
+                            "_text": "DOHC,CVTCS,VVEL"
+                          },
+                          "fuel": {
+                            "_text": "Benzin"
+                          },
+                          "drive": {
+                            "_text": "Arkadan İtiş"
+                          },
+                          "gearboxMT": {
+                            "_text": "6"
+                          },
+                          "frontSuspension": {
+                            "_text": "Helezon yay, Çift salıncaklı, Enine sabitleyici"
+                          },
+                          "rearSuspension": {
+                            "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                          },
+                          "frontBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "frontBrakesSize": {
+                            "_text": "355"
+                          },
+                          "frontBrakesThickness": {
+                            "_text": "32"
+                          },
+                          "rearBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "rearBrakesSize": {
+                            "_text": "350"
+                          },
+                          "rearBrakesThickness": {
+                            "_text": "20"
+                          },
+                          "abs": {
+                            "_text": "1"
+                          },
+                          "turningCircle": {
+                            "_text": "10.8"
+                          },
+                          "standardFCu": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionUrban": {
+                            "_text": "13.8"
+                          },
+                          "fuelConsumptionUrbanMin": {
+                            "_text": "13.8"
+                          },
+                          "standardFCe": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionExtraurban": {
+                            "_text": "9.4"
+                          },
+                          "fuelConsumptionExtraurbanMin": {
+                            "_text": "9.4"
+                          },
+                          "emissionStandard": {
+                            "_text": "LEV2"
+                          },
+                          "curbWeight": {
+                            "_text": "1640"
+                          },
+                          "curbWeightMin": {
+                            "_text": "1640"
+                          },
+                          "maxWeight": {
+                            "_text": "2142"
+                          },
+                          
+                          "tireSize": {
+                            "all": {
+                              "_text": "245/45 R18;225/50 R18"
+                            },
+                            "tire": [
+                              {
+                                "size": {
+                                  "_text": "245/45 R18"
+                                },
+                                "W": {
+                                  "_text": "245"
+                                },
+                                "H": {
+                                  "_text": "45"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              },
+                              {
+                                "size": {
+                                  "_text": "225/50 R18"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "50"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              }
+                            ]
+                          },
+                          "rimsSize": {
+                            "all": {
+                              "_text": "8.5J x 18;7.5J x 18"
+                            },
+                            "rim": [
+                              {
+                                "_text": "8.5J x 18"
+                              },
+                              {
+                                "_text": "7.5J x 18"
+                              }
+                            ]
+                          }
+                        },
+                        {
+                          "id": {
+                            "_text": "49203"
+                          },
+                          "update": {
+                            "_text": "2023-08-28 11:59:51"
+                          },
+                          "brand": {
+                            "_text": "Infiniti"
+                          },
+                        
+                          "generation": {
+                            "_text": "G37 Sedan (V36)"
+                          },
+                          "doors": {
+                            "_text": "4"
+                          },
+                          
+                          "power": {
+                            "_text": "328/7000"
+                          },
+                          "powerHp": {
+                            "_text": "328"
+                          },
+                          "powerRpm": {
+                            "_text": "7000"
+                          },
+                          "powerRpmLow": {
+                            "_text": "7000"
+                          },
+                          "tankVolume": {
+                            "_text": "76"
+                          },
+                          "coupe": {
+                            "_text": "Sedan"
+                          },
+                          "places": {
+                            "_text": "5"
+                          },
+                      
+                          "length": {
+                            "_text": "4755"
+                          },
+                          "width": {
+                            "_text": "1773"
+                          },
+                          "height": {
+                            "_text": "1469"
+                          },
+                          "heightMin": {
+                            "_text": "1469"
+                          },
+                          "rideHeight": {
+                            "_text": "124-130"
+                          },
+                          "rideHeightMin": {
+                            "_text": "124"
+                          },
+                          "rideHeightMax": {
+                            "_text": "130"
+                          },
+                          "luggageMin": {
+                            "_text": "382"
+                          },
+                          "luggageMinMin": {
+                            "_text": "382"
+                          },
+                          "engineCode": {
+                            "_text": "VQ37VHR"
+                          },
+                          "engineposition": {
+                            "_text": "Ön, boyuna"
+                          },
+                          "engineDisplacement": {
+                            "_text": "3696"
+                          },
+                          "maxEngineSpeed": {
+                            "_text": "7600"
+                          },
+                          "torque": {
+                            "_text": "365/5200"
+                          },
+                          "torqueNm": {
+                            "_text": "365"
+                          },
+                          "torqueRpm": {
+                            "_text": "5200"
+                          },
+                          "torqueRpmLow": {
+                            "_text": "5200"
+                          },
+                          "fuelSystem": {
+                            "_text": "Çok noktalı enjeksiyon"
+                          },
+                          "turbine": {
+                            "_text": "Atmosferik motor"
+                          },
+                          "valvetrain": {
+                            "_text": "DOHC,CVTCS,VVEL"
+                          },
+                          "fuel": {
+                            "_text": "Benzin"
+                          },
+                          "drive": {
+                            "_text": "Tüm tekerlekten çekiş (4x4)"
+                          },
+                          "gearboxAT": {
+                            "_text": "7"
+                          },
+                          "frontSuspension": {
+                            "_text": "Helezon yay, Çift salıncaklı, Enine sabitleyici"
+                          },
+                          "rearSuspension": {
+                            "_text": "Stabilizatörlü bağımsız çok bağlantılı yaylı süspansiyon"
+                          },
+                          "frontBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "frontBrakesSize": {
+                            "_text": "320"
+                          },
+                          "frontBrakesThickness": {
+                            "_text": "28"
+                          },
+                          "rearBrakes": {
+                            "_text": "Hava soğutmalı diskler"
+                          },
+                          "rearBrakesSize": {
+                            "_text": "308"
+                          },
+                          "rearBrakesThickness": {
+                            "_text": "16"
+                          },
+                          "abs": {
+                            "_text": "1"
+                          },
+                          "turningCircle": {
+                            "_text": "11"
+                          },
+                          "standardFCu": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionUrban": {
+                            "_text": "13.1"
+                          },
+                          "fuelConsumptionUrbanMin": {
+                            "_text": "13.1"
+                          },
+                          "standardFCe": {
+                            "_text": "EPA"
+                          },
+                          "fuelConsumptionExtraurban": {
+                            "_text": "9.4"
+                          },
+                          "fuelConsumptionExtraurbanMin": {
+                            "_text": "9.4"
+                          },
+                          "emissionStandard": {
+                            "_text": "LEV2"
+                          },
+                          "curbWeight": {
+                            "_text": "1720"
+                          },
+                          "curbWeightMin": {
+                            "_text": "1720"
+                          },
+                          "maxWeight": {
+                            "_text": "2198"
+                          },
+                          
+                          "tireSize": {
+                            "all": {
+                              "_text": "225/55 R17; 225/50 R18"
+                            },
+                            "tire": [
+                              {
+                                "size": {
+                                  "_text": "225/55 R17"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "55"
+                                },
+                                "D": {
+                                  "_text": "17"
+                                }
+                              },
+                              {
+                                "size": {
+                                  "_text": "225/50 R18"
+                                },
+                                "W": {
+                                  "_text": "225"
+                                },
+                                "H": {
+                                  "_text": "50"
+                                },
+                                "D": {
+                                  "_text": "18"
+                                }
+                              }
+                            ]
+                          },
+                          "rimsSize": {
+                            "all": {
+                              "_text": "7.5J x 17; 7.5J x 18"
+                            },
+                            "rim": [
+                              {
+                                "_text": "7.5J x 17"
+                              },
+                              {
+                                "_text": "7.5J x 18"
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "image": {
+          "_text": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxQTmmfvDK9Pwl1uFH7e5yoTvD-sdhnFhjcj3SwdsbHQ&s"
+        },
+        "update": {
+          "_text": "2021-02-02 16:34:43"
+        },
+        "name": {
+          "_text": "MG"
+        },
+        "id": {
+          "_text": "153"
+        },
+        "models": {
+          "model": [
+            {
+              "update": {
+                "_text": "2024-03-19 10:16:26"
+              },
+              "name": {
+                "_text": "MG7"
+              },
+              "id": {
+                "_text": "3405"
+              },
+              "generations": {
+                "generation": {
+                  "prototype": {
+                    "_text": "0"
+                  },
+                  "update": {
+                    "_text": "2024-03-19 10:18:12"
+                  },
+                  "name": {
+                    "_text": "MG7 II"
+                  },
+                  "modelYear": {
+                    "_text": "2023"
+                  },
+                  "id": {
+                    "_text": "9929"
+                  },
+                  "images": {
+                    "image": [
+                      {
+                        "id": {
+                          "_text": "140862"
+                        },
+                        "update": {
+                          "_text": "2024-03-19 10:22:23"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f55/MG-MG7-II_thumb.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f55/MG-MG7-II.jpg"
+                        },
+                        "attribution": {
+                          "_text": "&copy; www.Auto-Data.net"
+                        }
+                      },
+                      {
+                        "id": {
+                          "_text": "140863"
+                        },
+                        "update": {
+                          "_text": "2024-03-19 10:22:18"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f69/MG-MG7-II_thumb.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f69/MG-MG7-II.jpg"
+                        },
+                        "attribution": {
+                          "_text": "&copy; www.Auto-Data.net"
+                        }
+                      }
+                    ]
+                  },
+                  "modifications": {
+                    "modification": [
+                      {
+                        "id": {
+                          "_text": "51378"
+                        },
+                        "update": {
+                          "_text": "2024-03-20 14:27:18"
+                        },
+                        "brand": {
+                          "_text": "MG"
+                        },
+                        "model": {
+                          "_text": "MG7"
+                        },
+                        "generation": {
+                          "_text": "MG7 II"
+                        },
+                        "doors": {
+                          "_text": "5"
+                        },
+                        "doorsMin": {
+                          "_text": "5"
+                        },
+                        "power": {
+                          "_text": "261/5500-6000"
+                        },
+                        "powerHp": {
+                          "_text": "261"
+                        },
+                        "powerRpm": {
+                          "_text": "5500-6000"
+                        },
+                        "powerRpmLow": {
+                          "_text": "5500"
+                        },
+                        "powerRpmHigh": {
+                          "_text": "6000"
+                        },
+                        "maxspeed": {
+                          "_text": "230"
+                        },
+                        "acceleration": {
+                          "_text": "6.5"
+                        },
+                        "tankVolume": {
+                          "_text": "65"
+                        },
+                        "coupe": {
+                          "_text": "Fastback"
+                        },
+                        "places": {
+                          "_text": "5"
+                        },
+                  
+                        "length": {
+                          "_text": "4884"
+                        },
+                        "width": {
+                          "_text": "1889"
+                        },
+                        "height": {
+                          "_text": "1447"
+                        },
+                        "heightMin": {
+                          "_text": "1447"
+                        },
+                        "approachAngle": {
+                          "_text": "13"
+                        },
+                        "approachAngleMin": {
+                          "_text": "13"
+                        },
+                        "departureAngle": {
+                          "_text": "17"
+                        },
+                        "departureAngleMin": {
+                          "_text": "17"
+                        },
+                        "luggageMin": {
+                          "_text": "375"
+                        },
+                        "luggageMinMin": {
+                          "_text": "375"
+                        },
+                        "engineCode": {
+                          "_text": "BlueCore/20A4E"
+                        },
+                        "engineposition": {
+                          "_text": "Ön, enine"
+                        },
+                        "engineDisplacement": {
+                          "_text": "1986"
+                        },
+                        "torque": {
+                          "_text": "405/1750-4000"
+                        },
+                        "torqueNm": {
+                          "_text": "405"
+                        },
+                        "torqueRpm": {
+                          "_text": "1750-4000"
+                        },
+                        "torqueRpmLow": {
+                          "_text": "1750"
+                        },
+                        "torqueRpmHigh": {
+                          "_text": "4000"
+                        },
+                        "fuelSystem": {
+                          "_text": "Direkt enjeksiyon"
+                        },
+                        "turbine": {
+                          "_text": "Turbo kompresör, Intercooler"
+                        },
+                        "valvetrain": {
+                          "_text": "DOHC"
+                        },
+                        "fuel": {
+                          "_text": "Benzin"
+                        },
+                        "drive": {
+                          "_text": "Önden çekiş"
+                        },
+                        "gearboxAT": {
+                          "_text": "9"
+                        },
+                        "frontSuspension": {
+                          "_text": "Bağımsız tip McPherson"
+                        },
+                        "rearSuspension": {
+                          "_text": "Bağımsız çok bağlantılı süspansiyon"
+                        },
+                        "frontBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "rearBrakes": {
+                          "_text": "Disk"
+                        },
+                        "abs": {
+                          "_text": "1"
+                        },
+                        "standardFCc": {
+                          "_text": "WLTC"
+                        },
+                        "fuelConsumptionCombined": {
+                          "_text": "6.94"
+                        },
+                        "fuelConsumptionCombinedMin": {
+                          "_text": "6.94"
+                        },
+                        "emissionStandard": {
+                          "_text": "China VI"
+                        },
+                        "curbWeight": {
+                          "_text": "1650"
+                        },
+                        "curbWeightMin": {
+                          "_text": "1650"
+                        },
+                        "maxWeight": {
+                          "_text": "2085"
+                        },
+                     
+                        "tireSize": {
+                          "all": {
+                            "_text": "245/40 R19"
+                          },
+                          "tire": {
+                            "size": {
+                              "_text": "245/40 R19"
+                            },
+                            "W": {
+                              "_text": "245"
+                            },
+                            "H": {
+                              "_text": "40"
+                            },
+                            "D": {
+                              "_text": "19"
+                            }
+                          }
+                        },
+                        "rimsSize": {
+                          "all": {
+                            "_text": "19"
+                          },
+                          "rim": {
+                            "_text": "19"
+                          }
+                        }
+                      },
+                      {
+                        "id": {
+                          "_text": "51377"
+                        },
+                        "update": {
+                          "_text": "2024-03-20 14:27:18"
+                        },
+                        "brand": {
+                          "_text": "MG"
+                        },
+                        "model": {
+                          "_text": "MG7"
+                        },
+                        "generation": {
+                          "_text": "MG7 II"
+                        },
+                        "doors": {
+                          "_text": "5"
+                        },
+                        "doorsMin": {
+                          "_text": "5"
+                        },
+                        "power": {
+                          "_text": "188/5500-6000"
+                        },
+                        "powerHp": {
+                          "_text": "188"
+                        },
+                        "powerRpm": {
+                          "_text": "5500-6000"
+                        },
+                        "powerRpmLow": {
+                          "_text": "5500"
+                        },
+                        "powerRpmHigh": {
+                          "_text": "6000"
+                        },
+                        "maxspeed": {
+                          "_text": "210"
+                        },
+                        "tankVolume": {
+                          "_text": "65"
+                        },
+                        "coupe": {
+                          "_text": "Fastback"
+                        },
+                        "places": {
+                          "_text": "5"
+                        },
+                       
+                        "length": {
+                          "_text": "4884"
+                        },
+                        "width": {
+                          "_text": "1889"
+                        },
+                        "height": {
+                          "_text": "1447"
+                        },
+                        "heightMin": {
+                          "_text": "1447"
+                        },
+                        "approachAngle": {
+                          "_text": "13"
+                        },
+                        "approachAngleMin": {
+                          "_text": "13"
+                        },
+                        "departureAngle": {
+                          "_text": "17"
+                        },
+                        "departureAngleMin": {
+                          "_text": "17"
+                        },
+                        "luggageMin": {
+                          "_text": "375"
+                        },
+                        "luggageMinMin": {
+                          "_text": "375"
+                        },
+                        "engineCode": {
+                          "_text": "BlueCore/15FDE"
+                        },
+                        "engineposition": {
+                          "_text": "Ön, enine"
+                        },
+                        "engineDisplacement": {
+                          "_text": "1496"
+                        },
+                        "torque": {
+                          "_text": "300/1500-4000"
+                        },
+                        "torqueNm": {
+                          "_text": "300"
+                        },
+                        "torqueRpm": {
+                          "_text": "1500-4000"
+                        },
+                        "torqueRpmLow": {
+                          "_text": "1500"
+                        },
+                        "torqueRpmHigh": {
+                          "_text": "4000"
+                        },
+                        "fuelSystem": {
+                          "_text": "Direkt enjeksiyon"
+                        },
+                        "turbine": {
+                          "_text": "Turbo kompresör, Intercooler"
+                        },
+                        "valvetrain": {
+                          "_text": "DOHC"
+                        },
+                        "fuel": {
+                          "_text": "Benzin"
+                        },
+                        "drive": {
+                          "_text": "Önden çekiş"
+                        },
+                        "gearboxAT": {
+                          "_text": "7"
+                        },
+                        "gearboxATType": {
+                          "_text": "DCT"
+                        },
+                        "frontSuspension": {
+                          "_text": "Bağımsız tip McPherson"
+                        },
+                        "rearSuspension": {
+                          "_text": "Bağımsız çok bağlantılı süspansiyon"
+                        },
+                        "frontBrakes": {
+                          "_text": "Hava soğutmalı diskler"
+                        },
+                        "rearBrakes": {
+                          "_text": "Disk"
+                        },
+                        "abs": {
+                          "_text": "1"
+                        },
+                        "standardFCc": {
+                          "_text": "WLTC"
+                        },
+                        "fuelConsumptionCombined": {
+                          "_text": "6.25"
+                        },
+                        "fuelConsumptionCombinedMin": {
+                          "_text": "6.25"
+                        },
+                        "emissionStandard": {
+                          "_text": "China VI"
+                        },
+                        "curbWeight": {
+                          "_text": "1570"
+                        },
+                        "curbWeightMin": {
+                          "_text": "1570"
+                        },
+                        "maxWeight": {
+                          "_text": "2005"
+                        },
+                        
+                        "tireSize": {
+                          "all": {
+                            "_text": "225/50 R18; 245/40 R19"
+                          },
+                          "tire": [
+                            {
+                              "size": {
+                                "_text": "225/50 R18"
+                              },
+                              "W": {
+                                "_text": "225"
+                              },
+                              "H": {
+                                "_text": "50"
+                              },
+                              "D": {
+                                "_text": "18"
+                              }
+                            },
+                            {
+                              "size": {
+                                "_text": "245/40 R19"
+                              },
+                              "W": {
+                                "_text": "245"
+                              },
+                              "H": {
+                                "_text": "40"
+                              },
+                              "D": {
+                                "_text": "19"
+                              }
+                            }
+                          ]
+                        },
+                        "rimsSize": {
+                          "all": {
+                            "_text": "18; 19"
+                          },
+                          "rim": [
+                            {
+                              "_text": "18"
+                            },
+                            {
+                              "_text": "19"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            },
+            {
+              "update": {
+                "_text": "2024-03-19 09:43:08"
+              },
+              "name": {
+                "_text": "MG9"
+              },
+              "id": {
+                "_text": "3404"
+              },
+              "generations": {
+                "generation": {
+                  "prototype": {
+                    "_text": "0"
+                  },
+                  "update": {
+                    "_text": "2024-03-19 09:45:23"
+                  },
+                  "name": {
+                    "_text": "MG9 EV"
+                  },
+                  "modelYear": {
+                    "_text": "2024"
+                  },
+                  "id": {
+                    "_text": "9928"
+                  },
+                  "images": {
+                    "image": [
+                      {
+                        "id": {
+                          "_text": "140784"
+                        },
+                        "update": {
+                          "_text": "2024-03-19 09:58:05"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f127/MG-MG9-EV_thumb_1.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f127/MG-MG9-EV_2.jpg"
+                        },
+                        "attribution": {
+                          "_text": "&copy; www.Auto-Data.net"
+                        }
+                      },
+                      {
+                        "id": {
+                          "_text": "140785"
+                        },
+                        "update": {
+                          "_text": "2024-03-19 09:58:05"
+                        },
+                        "small": {
+                          "_text": "https://api.auto-data.net/images/f99/MG-MG9-EV_thumb.jpg"
+                        },
+                        "big": {
+                          "_text": "https://api.auto-data.net/images/f99/MG-MG9-EV.jpg"
+                        },
+                        "attribution": {
+                          "_text": "&copy; www.Auto-Data.net"
+                        }
+                      }
+                    ]
+                  },
+                  "modifications": {}
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

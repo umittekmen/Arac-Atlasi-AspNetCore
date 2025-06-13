@@ -1,0 +1,48 @@
+@model AspNetCoreApp.Web.Models.Model
+@{
+    ViewData["Title"] = Model.Name.Text + " Detayları";
+}
+
+<div class="container">
+    <h1 class="text-center mb-5">@Model.Name.Text Detayları</h1>
+    
+    <div class="row">
+        @foreach (var generation in Model.Generations.Generation)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    @if (generation.Images.Image.Any())
+                    {
+                        <img src="@generation.Images.Image.First().Big.Text" class="card-img-top" alt="@generation.Name.Text" style="height: 200px; object-fit: cover;">
+                    }
+                    else
+                    {
+                        <img src="/images/default-car.jpg" class="card-img-top" alt="Varsayılan Resim" style="height: 200px; object-fit: cover;">
+                    }
+                    <div class="card-body">
+                        <h5 class="card-title">@generation.Name.Text</h5>
+                        <p class="card-text">Model Yılı: @generation.ModelYear.Text</p>
+                        
+                        
+                        @if (generation.Modifications.Modification.Any())
+                        {
+                            var mod = generation.Modifications.Modification.First();
+                            <div class="mt-3">
+                                <h6>Teknik Özellikler:</h6>
+                                <ul class="list-unstyled">
+                                    <li>Motor: @mod.EngineDisplacement.Text cc</li>
+                                    <li>Güç: @mod.PowerHp.Text HP</li>
+                                    <li>Tork: @mod.TorqueNm.Text Nm</li>
+                                    <li>Yakıt Sistemi: @mod.FuelSystem.Text</li>
+                                    <li>Motor Tipi: @mod.Turbine.Text</li>
+                                </ul> 
+                            </div>
+                        }
+                        
+                         <a href="@Url.Action("Generation", "Vehicles", new { brandName = ViewBag.BrandName, modelName = Model.Name.Text, generationName = generation.Name.Text })" class="btn btn-primary">Detaylar</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div> 

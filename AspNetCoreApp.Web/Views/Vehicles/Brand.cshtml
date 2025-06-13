@@ -1,0 +1,39 @@
+@model AspNetCoreApp.Web.Models.Brand
+@{
+    ViewData["Title"] = Model.Name.Text + " Modelleri";
+}
+
+<div class="container">
+    <h1 class="text-center mb-5">@Model.Name.Text Modelleri</h1>
+    
+    @if (Model.Models.Model == null || !Model.Models.Model.Any())
+    {
+        <div class="alert alert-warning text-center">Bu markaya ait model bulunamadı.</div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var modelItem in Model.Models.Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        @if (modelItem.Generations.Generation.Any() && modelItem.Generations.Generation.First().Images.Image.Any())
+                        {
+                            <img src="@modelItem.Generations.Generation.First().Images.Image.First().Big.Text" class="card-img-top" alt="@modelItem.Name.Text" style="width: 100%; height: auto; object-fit: contain;">
+                        }
+                        else
+                        {
+                            <img src="/images/default-car.jpg" class="card-img-top" alt="Varsayılan Resim" style="width: 100%; height: auto; object-fit: contain;">
+                        }
+                        <div class="card-body text-center">
+                            <h3 class="card-title">@modelItem.Name.Text</h3>
+                            <a href="@Url.Action("Model", "Vehicles", new { brandName = Model.Name.Text, modelName = modelItem.Name.Text })" class="btn btn-primary mt-3">
+                                Detayları Gör
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div> 

@@ -1,0 +1,34 @@
+﻿@using AspNetCoreApp.Web.Controllers;
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>ornek  Index deneme</h1>
+
+<p>  @ViewBag.name  </p> 
+
+@{
+    var name = ViewBag.name;
+    <p>@name </p>
+
+
+}
+
+<p> yaş: @ViewData["age"] </p>
+
+@foreach (var item in ViewData["names"] as List<string> ?? new List<string>())
+    /*burada isimleri döngü içinde alamız gerekti names in türüde burda as diyerek belirttik*/
+{
+    <p>@item</p>
+}
+
+<p> @ViewBag.person.Id-@ViewBag.person.Name-@ViewBag.person.Age </p>
+
+@model List<Product>
+
+@foreach(var item in Model)
+{
+    <p>@item.Id,@item.Pname</p>
+}
+
+
